@@ -3,6 +3,11 @@ Android
 
 Small snippets for android applications
 
+Contribute
+========
+
+Feel free to send a pull request!
+
 License
 =======
 
