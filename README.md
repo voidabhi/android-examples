@@ -3,6 +3,8 @@ Android
 
 Small snippets for android applications
 
+`Action Bar Example`
+
 Contribute
 ========
 
