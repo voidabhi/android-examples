@@ -5,6 +5,7 @@ Small snippets for android applications
 
 `Action Bar Example`
  Action Tab Example
+ Comments App
 
 Contribute
 ========
