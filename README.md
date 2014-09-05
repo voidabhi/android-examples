@@ -7,7 +7,7 @@ Small snippets for android applications
 `Action Tab Example`
 `Comments App`
 `Custom ListView Example` 
-`NavigationDrawerExample`
+`Navigation Drawer Example`
 
 Contribute
 ========
