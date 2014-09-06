@@ -8,6 +8,7 @@ Small snippets for android applications
 `Comments App`
 `Custom ListView Example` 
 `Navigation Drawer Example`
+`Notification Example`
 
 Contribute
 ========
