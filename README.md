@@ -9,7 +9,7 @@ Small snippets for android applications
 `Custom ListView Example` 
 `Navigation Drawer Example`
 `Notification Example`
-`PeriodicBackgroundServiceExample`
+`Periodic Background Service Example`
 
 Contribute
 ========
