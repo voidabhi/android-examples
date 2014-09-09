@@ -10,7 +10,7 @@ Small snippets for android applications
 `Navigation Drawer Example`
 `Notification Example`
 `Periodic Background Service Example`
-`PullToRefreshListView`
+`Pull To Refresh ListView`
 
 Contribute
 ========
