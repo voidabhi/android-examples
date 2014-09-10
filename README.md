@@ -11,6 +11,7 @@ Small snippets for android applications
 `Notification Example`
 `Periodic Background Service Example`
 `Pull To Refresh ListView`
+`Splash Screen Example`
 
 Contribute
 ========
