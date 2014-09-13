@@ -24,6 +24,7 @@ public class MainActivity extends Activity {
 	  @Override
 	  public boolean onOptionsItemSelected(MenuItem item) {
 	    switch (item.getItemId()) {
+	    // It is invoked when user clicks on refresh button
 	    case R.id.action_refresh:
 	      Toast.makeText(this, "Action refresh selected", Toast.LENGTH_SHORT)
 	          .show();
