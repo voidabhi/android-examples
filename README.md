@@ -1,7 +1,7 @@
 Android
 =======
 
-![TheZineRest](https://s3.amazonaws.com/mixture-mixed/2967/5505/assets/img/logo-white.png)
+![Android](https://github.com/voidabhi/android/blob/master/andy.jpg)
 
 Small snippets for android applications
 
