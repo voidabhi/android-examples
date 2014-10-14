@@ -1,6 +1,8 @@
 Android
 =======
 
+![TheZineRest](https://s3.amazonaws.com/mixture-mixed/2967/5505/assets/img/logo-white.png)
+
 Small snippets for android applications
 
 `Action Bar Example`
