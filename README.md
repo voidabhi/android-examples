@@ -3,7 +3,7 @@ Android
 
 ![Android](https://github.com/voidabhi/android/blob/master/andy.jpg)
 
-Small snippets for android applications
+Small resuable snippets for android applications
 
 `Action Bar Example`
 `Action Tab Example`
