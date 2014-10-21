@@ -25,7 +25,7 @@ public class DummySectionFragment extends Fragment {
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
 		
-		// Fragment context (analogy to applicationContext in n activity)
+		// Fragment context (analogy to applicationContext in an activity)
 		// - layout of fragment
 		// - container of fragment in activity
 		View rootView = inflater.inflate(R.layout.fragment_main_dummy,
