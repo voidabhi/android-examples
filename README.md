@@ -18,7 +18,7 @@ Small resuable snippets for android applications
 Contribute
 ========
 
-Feel free to send a pull requests.
+Feel free to send a pull request.
 
 License
 =======
