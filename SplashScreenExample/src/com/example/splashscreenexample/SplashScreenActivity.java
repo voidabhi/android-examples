@@ -14,6 +14,7 @@ public class SplashScreenActivity extends Activity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_splash_screen);
  
+    // Callling execute function of AsyncTask
     new BackgroundSplashTask().execute();
  
   }
