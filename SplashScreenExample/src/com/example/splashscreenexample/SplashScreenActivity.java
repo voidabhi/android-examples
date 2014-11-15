@@ -7,7 +7,7 @@ import android.os.Bundle;
  
 public class SplashScreenActivity extends Activity {
  
- // activity holding time in milliseonds
+ // activity holding time in milliseconds
   private static final int SPLASH_SHOW_TIME = 1000;
  
   @Override
