@@ -114,6 +114,7 @@ public class MainActivity extends Activity {
             @Override
             public void onFailure(Throwable t1)
             {
+            	// Updating the progressbar title on failure
             	p.setTitle(t1.getMessage());
             }            
             
