@@ -56,28 +56,6 @@ public class MainActivity extends Activity {
 	        
 	        
 	
-        
-        /*
-         *                 RequestParams params = new RequestParams();
-                params.put("text", "comment from android");
-                params.put("author", "Abhijeet Mohan");
-                
-                CommentClient.post("api/comments", params,  new AsyncHttpResponseHandler() {
-                    @Override
-                    public void onSuccess(String response) {
-                    	p.hide();
-                        t.setText(response);
-                    }
-                    
-                    @Override
-                    public void onFailure(Throwable t1)
-                    {
-                    	p.hide();
-                    	t.setText(t1.getMessage());
-                    }
-                });  
-         * 
-         * */
 	}
 
 	private ArrayList<Comment> getListData() {
