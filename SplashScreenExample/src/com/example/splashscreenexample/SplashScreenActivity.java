@@ -55,6 +55,7 @@ public class SplashScreenActivity extends Activity {
     @Override
     protected void onPostExecute(Void result) {
       super.onPostExecute(result);
+      // starting splash screen activity with info in it
       Intent i = new Intent(SplashScreenActivity.this,
           MainActivity.class);
       // any info loaded can during splash_show
