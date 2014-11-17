@@ -44,7 +44,7 @@ public class MainActivity extends Activity {
 				this).setSmallIcon(iconRes)
 				.setContentTitle(title)
 				.setContentText(body);
-
+		// getting notification manager from system
 		NotificationManager mNotificationManager = 
 	            (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
 		// mId allows you to update the notification later on.
