@@ -36,6 +36,7 @@ public class MainActivity extends Activity {
 	 
 	    }
 	 
+	    // Returning list of news item
 	    private ArrayList<NewsItem> getListData() {
 	        ArrayList<NewsItem> results = new ArrayList<NewsItem>();
 	        NewsItem newsData = new NewsItem();
