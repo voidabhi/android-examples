@@ -22,6 +22,7 @@ public class MainActivity extends Activity {
 		
 		nId=12;
 		
+		
 		createNotification(nId,R.drawable.ic_launcher,"Just a notification test","This is a notification");
 		
 	}
@@ -33,6 +34,7 @@ public class MainActivity extends Activity {
 		return true;
 	}
 	
+	// utility for creating new notification
 	private void createNotification(int nId, int iconRes, String title, String body) {
 		
 		
