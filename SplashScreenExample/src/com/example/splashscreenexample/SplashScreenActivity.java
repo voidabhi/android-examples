@@ -63,6 +63,7 @@ public class SplashScreenActivity extends Activity {
       // below
       i.putExtra("loaded_info", " ");
       startActivity(i);
+      // finishing the activity
       finish();
     }
  
