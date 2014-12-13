@@ -16,7 +16,7 @@ public class MainActivity extends FragmentActivity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		// Find our drawer view
+		// Adding layout to drawer
 		dlDrawer = (FragmentNavigationDrawer) findViewById(R.id.drawer_layout);
 		// Setup drawer view
 		dlDrawer.setupDrawerConfiguration((ListView) findViewById(R.id.lvDrawer), 
