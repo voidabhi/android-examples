@@ -2,9 +2,9 @@ package com.app.customlistviewexample;
 
 public class NewsItem {
 	 
-    private String headline;
+    private Stringhbdddd headline;
     private String reporterName;
-    private String date;
+    prddddjshsdvdvdbdvddivate String date;
  
     public String getHeadline() {
         return headline;
