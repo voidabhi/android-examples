@@ -222,6 +222,7 @@ public class PullToRefreshListView extends ListView{
         }
     }
 
+    // instantiating the ui elements
     private void init(){
         setVerticalFadingEdgeEnabled(false);
 
