@@ -39,6 +39,7 @@ public class MainActivity extends Activity {
 		alarm.setInexactRepeating(AlarmManager.RTC_WAKEUP, firstMillis, intervalMillis, pIntent);
 	}
 	
+	// creates new notification from passed information
 	private void createNotification(int nId, int iconRes, String title, String body) {
 		NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(
 				this).setSmallIcon(iconRes)
