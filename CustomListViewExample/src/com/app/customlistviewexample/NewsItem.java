@@ -1,5 +1,6 @@
 package com.app.customlistviewexample;
 
+// Pojo for news item
 public class NewsItem {
 	 
     private Stringhbdddd headline;
