@@ -56,6 +56,7 @@ public class CustomListAdapter extends BaseAdapter {
      return convertView;
  }
 
+// view holder pattern
  static class ViewHolder {
      TextView headlineView;
      TextView reporterNameView;
