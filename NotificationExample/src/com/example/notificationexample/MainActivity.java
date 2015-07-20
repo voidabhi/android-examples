@@ -13,6 +13,7 @@ import android.view.Menu;
 public class MainActivity extends Activity {
 	
 	int nId ;
+	String notificationMessage = "Just a notification test";
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -23,7 +24,7 @@ public class MainActivity extends Activity {
 		nId=12;
 		
 		
-		createNotification(nId,R.drawable.ic_launcher,"Just a notification test","This is a notification");
+		createNotification(nId,R.drawable.ic_launcher,notificationMessage,"This is a notification");
 		
 	}
 
