@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
 		// providing unique id to the notification
 		nId=12;
 		
-		
+		// creating new notification
 		createNotification(nId,R.drawable.ic_launcher,notificationMessage,"This is a notification");
 		
 	}
