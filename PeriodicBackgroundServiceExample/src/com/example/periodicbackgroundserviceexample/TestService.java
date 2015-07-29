@@ -26,6 +26,7 @@ public class TestService extends IntentService {
 		createNotification(nId,R.drawable.ic_launcher,"Just a notification test","This is a notification");		
 	}
 	
+	// Creating new notification 
 	private void createNotification(int nId, int iconRes, String title, String body) {
 		
 		
