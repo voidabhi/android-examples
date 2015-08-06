@@ -10,10 +10,10 @@ public class DummyTabListener implements TabListener {
 	
     public Context context;
 
-	public DummyTabListener(Context context) {
-		// TODO Auto-generated constructor stub
-           this.context = context;
-	}
+    public DummyTabListener(Context context) {
+	// TODO Auto-generated constructor stub
+        this.context = context;
+    }
 
     @Override
     public void onTabReselected(Tab tab, FragmentTransaction ft) {
