@@ -36,6 +36,7 @@ public class MainActivity extends Activity {
 		long firstMillis = System.currentTimeMillis(); // first run of alarm is immediate
 		int intervalMillis = 5000; // 5 seconds
 		AlarmManager alarm = (AlarmManager) this.getSystemService(Context.ALARM_SERVICE);
+		// set alarm config
 		alarm.setInexactRepeating(AlarmManager.RTC_WAKEUP, firstMillis, intervalMillis, pIntent);
 	}
 	
