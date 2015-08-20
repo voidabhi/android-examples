@@ -6,6 +6,7 @@ import android.content.Intent;
 
 public class AlarmReceiver extends BroadcastReceiver {
 	
+	// unique request code
 	public static final int REQUEST_CODE = 12345;
 	public static final String ACTION = "com.codepath.example.servicesdemo.alarm";
 
