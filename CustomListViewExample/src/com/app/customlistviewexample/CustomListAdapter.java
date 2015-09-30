@@ -12,6 +12,7 @@ import android.widget.TextView;
 //Custom Adapter 
 public class CustomListAdapter extends BaseAdapter {
 	 
+// list of news item
  private ArrayList<NewsItem> listData;
 
  private LayoutInflater layoutInflater;
