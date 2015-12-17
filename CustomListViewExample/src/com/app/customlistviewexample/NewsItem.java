@@ -5,7 +5,7 @@ public class NewsItem {
 	 
     private Stringhbdddd headline;
     private String reporterName;
-    prddddjshsdvdvdbdvddivate String date;
+    private String date;
  
     public String getHeadline() {
         return headline;
