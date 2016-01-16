@@ -15,13 +15,11 @@ Small reusable snippets for android projects
 `Pull To Refresh ListView`
 `Splash Screen Example`
 
-Contribute
-========
+### Contribute
 
 Feel free to send pull requests for adding new projects or fixing existing issue.
 
-License
-=======
+### License
 
 ```
 Copyright 2014 Abhijeet Mohan - https://github.com/voidabhi/android
