@@ -15,9 +15,9 @@ Small reusable snippets for android projects
 `Pull To Refresh ListView`
 `Splash Screen Example`
 
-### Contribute
+### Contributing
 
-Feel free to send pull requests for adding new projects or fixing existing issue.
+- Please use the [issue tracker](https://github.com/voidabhi/android/issues) to report any bugs or file feature requests.
 
 ### License
 
