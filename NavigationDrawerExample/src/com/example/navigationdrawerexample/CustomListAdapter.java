@@ -40,6 +40,7 @@ public class CustomListAdapter extends BaseAdapter {
      ViewHolder holder;
      if (convertView == null) {
          convertView = layoutInflater.inflate(R.layout.drawer_nav_item, null);
+         
          holder = new ViewHolder();
          holder.headlineView = (TextView) convertView.findViewById(R.id.text1);
          holder.reporterNameView = (TextView) convertView.findViewById(R.id.reporter);
@@ -48,7 +49,9 @@ public class CustomListAdapter extends BaseAdapter {
      } else {
          holder = (ViewHolder) convertView.getTag();
      }
-
+     
+     
+     // populating data in view
      holder.headlineView.setText(((NewsItem)listData.get(position)).getHeadline());
      holder.reporterNameView.setText("By, " + ((NewsItem)listData.get(position)).getReporterName());
      holder.reportedDateView.setText(((NewsItem)listData.get(position)).getDate());
