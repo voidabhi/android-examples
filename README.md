@@ -1,7 +1,7 @@
 ## Android
 
 
-![Android](https://github.com/voidabhi/android/blob/master/andy.jpg)
+![Android](http://www.dumainteractiva.com/media/fotos2/web_608_20151111112141.jpg)
 
 Small reusable snippets for android projects
 
